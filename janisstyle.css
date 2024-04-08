@@ -1,0 +1,58 @@
+
+.image{
+    width: 300px;
+    height: auto; 
+}
+.container1{ 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.augsa {
+    color: orange;
+}
+
+.nav-pills {
+    margin-right: 900px;
+    padding-bottom : 10px;
+    display: flex;
+}
+
+.nav-item {
+    margin-right: 10px;
+    margin-top: 20px;
+}
+
+.virsraksts{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 30px;
+    color: orange;
+}
+
+.kaukulators {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.kaukulators1, .poga,  .kaukulators{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+  }
+
+.maksajums{
+    margin-bottom: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.col-lg-4{
+    padding-right: 250px;
+}
+
